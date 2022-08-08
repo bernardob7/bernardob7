@@ -42,7 +42,7 @@
 </p>
 
 ### Programming Languages I am familiar with:
- Python, C, Html, CSS and 
+ Python, C, Html, CSS and Ruby
 </p>
 
 ### Languages I speak:

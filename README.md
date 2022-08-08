@@ -2,11 +2,11 @@
 ### Olá, me chamo Bruno Socorro !💻🚀⚽🇧🇷
 ### Howdy, I am Bruno Socorro ! 💻🚀🏈🇧🇷
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.empre-renda.com/englishinacup)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.socorro@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linkwhats.app/57ed81)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()</p>
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@teachersocorro)</p>
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardob7&show_icons=true&theme=dark)
 </p>
@@ -26,7 +26,8 @@
 
 ### Office Knowledge (Pacote Office) :
 <div style="display: inline_block"></br>
-  <img align="center" alt="liobreoffice" src=https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+
+  <img align="center" alt="libreoffice" src=https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
@@ -50,10 +51,11 @@ Portuguese (Native) , English (Fluent), Spanish (Advanced) and Italian (Basic)
 ### I also play Games:
 
 <div style="display: inline_block"></br>
-  <img align="center" alt="liobreoffice" src=https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+
+  <img align="center" alt="xbox" src=https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img align="center" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="center" alt="epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+  <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   
 </div>
 </p>
@@ -66,3 +68,5 @@ Portuguese (Native) , English (Fluent), Spanish (Advanced) and Italian (Basic)
 - 💻 Graduated in Infomation Systems, International Relations and Foreign Trade.
 - 📫 How to reach me +55 11-99938-8500
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardob7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

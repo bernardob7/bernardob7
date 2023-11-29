@@ -64,7 +64,7 @@ Portuguese (Native) , English (Fluent), Spanish (Advanced) and Italian (Basic)
 - 👀 I’m interested in FontEnd and BackEnd Development
 - 💞️ I’m looking to collaborate by sharing some of my personal files and pieces of code
 - 💻 Graduated in Infomation Systems, International Relations and Foreign Trade.
-- 📫 How to reach me +55 11-99938-8500
+- 📫 How to reach me +436789070115831
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardob7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
